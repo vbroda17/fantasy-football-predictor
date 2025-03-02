@@ -1,0 +1,8 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all PKL files
+*.pkl
+
+nfl_data/
+predictions/

@@ -1,0 +1,12 @@
+To run this you should just have to run 
+- data_gathering.py
+- data_process.py
+
+then run the helper scripts
+get_player_id.py
+get_schedule.py
+
+Train the model by running train_model.py
+Then Run predict.py and enter either a week of the current season you want predictions for or a test of the predictions
+
+I plan on probably condensing all of this down into a single notebook but right now I think this should be fine and works well.
